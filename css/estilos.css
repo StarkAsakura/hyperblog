@@ -1,14 +1,9 @@
 body
 {
-    color: #333;
+    color: #blue;
     text-align: center;
-<<<<<<< HEAD
     font-family: "Courier";
     font-size: 16px;
-=======
-    font-family: "Arial";
-    font-size: 18px;
->>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
@@ -16,12 +11,12 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: rigth;
+    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
 
 #container h1
 {
-    font-size: 22px;
+    font-size: 20px;
 }
